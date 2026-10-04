@@ -128,3 +128,7 @@
 ## Answer Feedback
 - Practice shows instant correctness feedback immediately after an answer is submitted.
 - Tests do not reveal correctness during the test; correctness/results are shown only after the full test is completed.
+
+## Practice Feedback Visuals
+- Correct answers use green feedback with a subtle animation.
+- Incorrect answers use red feedback with a subtle animation.
