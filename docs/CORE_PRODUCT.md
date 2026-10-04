@@ -165,3 +165,8 @@ The roadmap and future plans remain controlled by the project owner.
 ## Editable Questions
 - Users can edit extracted questions after extraction.
 - Editing may include the question text, options, answer, question type, and other relevant question fields.
+
+
+## Question Creation
+- Users cannot create completely new questions from scratch.
+- The question library is sourced from questions extracted from the user's imported material.
