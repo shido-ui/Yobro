@@ -102,3 +102,7 @@
 
 ## Topic Header Information
 - The sticky topic header displays the topic name and its current question count.
+
+## Topic Practice Action
+- The topic window includes a floating Practice button.
+- The Practice button starts practice using questions from the current topic.
