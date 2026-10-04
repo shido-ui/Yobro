@@ -140,3 +140,7 @@
 ## Test Results
 - Test results use a more detailed results screen than Practice results.
 - The results include score, accuracy, mistakes, and topic-wise performance.
+
+## Test Mistake Review
+- Each mistake in Test Results is tap-to-expand.
+- Expanded mistakes show the question, the user's answer, and the correct answer.
