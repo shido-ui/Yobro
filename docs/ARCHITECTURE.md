@@ -22,3 +22,7 @@
 ## Background PDF Processing
 - Long-running PDF extraction should use Android WorkManager if it can be integrated without materially increasing implementation complexity.
 - If WorkManager would substantially complicate the build, Yobro should prefer a simpler reliable on-device processing approach.
+
+## Local Storage
+- Yobro stores its database, extracted study data, and application-generated files in Android's internal app storage.
+- Core data does not require external/shared storage or a cloud database.
