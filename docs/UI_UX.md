@@ -164,3 +164,7 @@
 - Master Search searches the app's own destinations, settings, processing tools, and other navigable interface actions.
 - Master Search is designed for quick navigation and ease of use.
 - Selecting a Master Search result directly navigates to the relevant interface or control.
+
+## Master Search Access
+- Master Search is accessible from the main screen only.
+- It is not persistently exposed on every secondary screen.
