@@ -30,3 +30,9 @@
 ## AI Processing Boundary
 - AI API calls begin only after MinerU has completed on-device PDF extraction.
 - AI receives extracted content for organization/classification and analysis rather than performing the initial PDF extraction.
+
+## AI Failure & Manual Organization
+- AI organization is optional and must not be a dependency for retaining extracted content.
+- If an AI API call fails, extracted content remains stored locally.
+- Users can manually categorize extracted questions and study content.
+- Full editing capabilities remain available regardless of AI availability.
