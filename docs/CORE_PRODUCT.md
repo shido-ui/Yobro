@@ -80,3 +80,8 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Dashboard
 - No dedicated overall study-status/weak-area dashboard is required.
+
+
+## Search
+- The app should provide a comprehensive search system across the user's organized study material.
+- Search should cover subjects, chapters, topics, questions, and extracted theory.
