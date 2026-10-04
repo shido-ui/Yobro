@@ -17,7 +17,9 @@
   - Chapter
     - Topic
       - Question
-      - Theory/study content
+  - Theory/study content belongs to Topic and is separate from Questions.
+
+The canonical hierarchy is strictly **Subject → Chapter → Topic → Question**, with **Theory owned by Topic**.
 
 The data model must also support questions originating from imported material, multiple PDFs contributing questions to the same topic, editable questions/theory, question duplication, permanent deletion, manual organization, and performance data.
 
