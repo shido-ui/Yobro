@@ -14,3 +14,7 @@
 
 ## Application Architecture
 - The Android application follows MVVM with a Repository pattern.
+
+## PDF Extraction Runtime
+- MinerU runs locally on the Android phone as part of Yobro's on-device PDF processing architecture.
+- PDF extraction does not depend on a remote extraction service.
