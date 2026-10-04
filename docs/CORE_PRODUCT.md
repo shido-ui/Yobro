@@ -51,12 +51,10 @@ This document records established product decisions only. It must not be used to
 
 The roadmap and future plans remain controlled by the project owner.
 
-
 ## Organization
 - Multiple PDFs can contribute questions to the same topic.
 - Questions from different PDFs may be combined into one shared topic library.
 - The organization includes subject sections above chapters/topics.
-
 
 ## Performance & Weak-Area Analysis
 - The app tracks detailed student performance.
@@ -64,28 +62,24 @@ The roadmap and future plans remain controlled by the project owner.
 - The system uses this data to identify weak areas in detail.
 - AI may be used to assist with weak-area analysis.
 
-
 ## Test / Exam Mode
 - Tests and exams are generated only from questions extracted from the user's own imported material.
 - The app does not introduce outside questions into the user's test library.
 - The product follows a BYOM (Bring Your Own Material) model.
 - Organized question libraries are the source for test generation.
 
-
 ## Test Customization
 - Test generation is highly customizable.
 - Users can control test composition down to fine-grained details, including subject/topic, question count, difficulty, and question type.
 - Customization applies while remaining restricted to the user's extracted BYOM question library.
 
-
 ## Dashboard
 - No dedicated overall study-status/weak-area dashboard is required.
-
 
 ## Search
 - The app should provide a comprehensive search system across the user's organized study material.
 - Search should cover subjects, chapters, topics, questions, and extracted theory.
-
+- The app also provides a Master Search for quickly finding app destinations, settings, processing tools, and other user-interface actions so users can navigate the application without manually locating each control.
 
 ## PDF Extraction vs AI Organization
 - PDF extraction itself is performed entirely on-device by the integrated MinerU-based extractor; AI is not responsible for extracting the PDF.
@@ -98,16 +92,14 @@ The roadmap and future plans remain controlled by the project owner.
 ## AI Provider / API Support
 - Users can configure and use multiple AI providers/API keys.
 - The app does not prescribe a specific AI model.
-- The user may use whatever model(s) their configured API provider/key supports.
+- The user may use whatever model(s) their configured AI provider/key supports.
 - AI provider choice should remain flexible for classification and analysis.
-
 
 ## Local-First Data & Responsibility
 - Student data is stored locally on the user's device.
 - The phone's local storage is used for the application's database/data layer.
 - No account/login or cloud database is required for the core product.
 - When material such as PDFs is sent to an external AI API, the user is responsible for that data transfer and the provider/API they choose.
-
 
 ## Platform & Hardware Target
 - Android only for the initial product.
@@ -116,100 +108,79 @@ The roadmap and future plans remain controlled by the project owner.
 - Minimum recommended hardware target: 3 GB RAM and a MediaTek Dimensity 6300-class processor.
 - The UI is intended to be visually rich/eye-catching, so the target device should be capable of handling the interface smoothly.
 
-
 ## UI / Interaction Direction
 - The Android UI should be highly interactive, fluid, and visually engaging.
 - Motion should respond smoothly to scrolling and user interaction, with content transitioning/moving into view rather than behaving like a static collection of screens.
 - The supplied ORBIS webpage is a reference for the desired interaction philosophy: scroll-driven transitions, animated content entrances, responsive movement, interactive controls, and fluid panels. Its implementation is web-specific and is not itself the Android implementation.
 - The Android version should translate the same interaction quality into appropriately optimized native/mobile UI.
 
-
 ## Theme
 - Dark mode only.
-
 
 ## PDF Import
 - Users import one PDF at a time.
 - PDF extraction is performed on-device using the integrated MinerU-based extractor.
 
-
 ## PDF Processing Experience
 - After importing a PDF, the app shows a real-time processing/progress view.
 - The processing view should communicate MinerU extraction and subsequent organization/analysis progress as it happens.
 
-
 ## Cancelled PDF Processing
 - If the user cancels PDF processing, the partially extracted results are discarded and deleted.
-
 
 ## Original PDF Retention and Extraction Quality
 - The original imported PDF is deleted after successful extraction and verification.
 - Prioritize the highest practical extraction accuracy for all questions and associated content, including equations, diagrams, and tables.
 - Verify extraction before deleting the source PDF; flag uncertain or potentially missing content rather than assuming perfect extraction.
 
-
 ## Extraction Verification
 - Yobro should automatically verify extracted content for completeness and potential extraction errors.
 - The user should also have an opportunity to review the extracted content before the original PDF is permanently deleted.
 
-
 ## Extraction Verification Gate
 - If automatic verification identifies a potentially missing or incorrect question, the original PDF must not be deleted until the issue is resolved.
-
 
 ## Editable Study Content
 - Extracted theory is editable by the user.
 - Users can correct or modify extracted theory after extraction.
 
-
 ## Editable Questions
 - Users can edit extracted questions after extraction.
 - Editing may include the question text, options, answer, question type, and other relevant question fields.
-
 
 ## Question Creation
 - Users cannot create completely new questions from scratch.
 - The question library is sourced from questions extracted from the user's imported material.
 
-
 ## Question Duplication
 - Users can duplicate an existing extracted question to create a separate version.
 - Duplicated questions remain user-material-derived rather than being brand-new authored questions.
-
 
 ## Duplicated Question Placement
 - A duplicated question remains in the same chapter/topic placement as its original question.
 - Duplicating a question does not automatically create or change its organization.
 
-
 ## Question Deletion
 - Users can permanently delete extracted questions from their library.
 
-
 ## Question Deletion Confirmation
 - Deleting an extracted question requires user confirmation before permanent deletion.
-
 
 ## Permanent Question Deletion
 - After confirmation, a deleted question is permanently deleted.
 - No recycle bin or recovery period is required.
 
-
 ## Chapter & Topic Management
 - Users can manually create, rename, move, merge, and delete chapters and topics.
-
 
 ## Subject Management
 - Users can manually create, rename, move, merge, and delete subjects.
 
-
 ## Subject Deletion
 - Deleting a subject requires explicit user confirmation.
 
-
 ## Subject Deletion Cascade
 - After confirmation, deleting a subject permanently deletes everything contained within it, including its chapters, topics, questions, and theory.
-
 
 ## Chapter & Topic Deletion
 - Deleting a chapter or topic requires explicit user confirmation.
