@@ -181,3 +181,6 @@
 
 ## Master Search Recent History
 - Master Search does not show recent searches or recent actions when opened.
+
+## Master Search Navigation
+- Tapping a Master Search result closes the search overlay and directly opens the selected destination or interface.
