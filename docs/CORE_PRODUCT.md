@@ -170,3 +170,8 @@ The roadmap and future plans remain controlled by the project owner.
 ## Question Creation
 - Users cannot create completely new questions from scratch.
 - The question library is sourced from questions extracted from the user's imported material.
+
+
+## Question Duplication
+- Users can duplicate an existing extracted question to create a separate version.
+- Duplicated questions remain user-material-derived rather than being brand-new authored questions.
