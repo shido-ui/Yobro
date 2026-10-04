@@ -63,3 +63,10 @@ The roadmap and future plans remain controlled by the project owner.
 - Performance data includes accuracy, attempts, mistakes, and topic-wise progress.
 - The system uses this data to identify weak areas in detail.
 - AI may be used to assist with weak-area analysis.
+
+
+## Test / Exam Mode
+- Tests and exams are generated only from questions extracted from the user's own imported material.
+- The app does not introduce outside questions into the user's test library.
+- The product follows a BYOM (Bring Your Own Material) model.
+- Organized question libraries are the source for test generation.
