@@ -155,3 +155,8 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Extraction Verification Gate
 - If automatic verification identifies a potentially missing or incorrect question, the original PDF must not be deleted until the issue is resolved.
+
+
+## Editable Study Content
+- Extracted theory is editable by the user.
+- Users can correct or modify extracted theory after extraction.
