@@ -132,3 +132,7 @@
 ## Practice Feedback Visuals
 - Correct answers use green feedback with a subtle animation.
 - Incorrect answers use red feedback with a subtle animation.
+
+## Practice Session Summary
+- After a Practice session, the app shows a session summary.
+- The summary includes accuracy, attempted questions, and mistakes.
