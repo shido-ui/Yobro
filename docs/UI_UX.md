@@ -58,3 +58,7 @@
 ## Test Question Navigator
 - The dedicated test environment includes a question-number navigator.
 - The navigator shows question numbers and their answered/unanswered state.
+
+## PDF Processing Screen
+- PDF processing has a dedicated screen/workspace.
+- The screen presents extraction progress, verification status, and review actions without cluttering the main Library interface.
