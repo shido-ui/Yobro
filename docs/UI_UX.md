@@ -110,3 +110,6 @@
 ## Topic Practice Button Behavior
 - The floating Practice button is allowed to leave the visible viewport when the user scrolls.
 - It does not need to remain persistently visible while scrolling.
+
+## Topic Practice Button Reappearance
+- When scrolling back toward the top, the floating Practice button smoothly reappears.
