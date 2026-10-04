@@ -56,3 +56,10 @@ The roadmap and future plans remain controlled by the project owner.
 - Multiple PDFs can contribute questions to the same topic.
 - Questions from different PDFs may be combined into one shared topic library.
 - The organization includes subject sections above chapters/topics.
+
+
+## Performance & Weak-Area Analysis
+- The app tracks detailed student performance.
+- Performance data includes accuracy, attempts, mistakes, and topic-wise progress.
+- The system uses this data to identify weak areas in detail.
+- AI may be used to assist with weak-area analysis.
