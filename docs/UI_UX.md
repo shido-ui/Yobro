@@ -62,3 +62,7 @@
 ## PDF Processing Screen
 - PDF processing has a dedicated screen/workspace.
 - The screen presents extraction progress, verification status, and review actions without cluttering the main Library interface.
+
+## Creation and Editing Controls
+- Creating and editing subjects, chapters, and topics uses animated bottom sheets rather than separate screens.
+- Bottom sheets should provide responsive motion and keep the primary navigation uncluttered.
