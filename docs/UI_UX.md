@@ -84,3 +84,8 @@
 ## Library Chapter Navigation
 - Chapter cards use the same animated transition pattern as subject cards.
 - Opening a chapter transitions smoothly into its topic view rather than using a static page change.
+
+## Topic Content Navigation
+- Tapping a topic card opens a dedicated topic window.
+- The topic window contains both the topic's theory and all of its questions.
+- The topic card does not animate directly into an inline question list.
