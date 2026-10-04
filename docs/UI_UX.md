@@ -106,3 +106,7 @@
 ## Topic Practice Action
 - The topic window includes a floating Practice button.
 - The Practice button starts practice using questions from the current topic.
+
+## Topic Practice Button Behavior
+- The floating Practice button is allowed to leave the visible viewport when the user scrolls.
+- It does not need to remain persistently visible while scrolling.
