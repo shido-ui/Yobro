@@ -89,3 +89,7 @@
 - Tapping a topic card opens a dedicated topic window.
 - The topic window contains both the topic's theory and all of its questions.
 - The topic card does not animate directly into an inline question list.
+
+## Topic Window Sections
+- Theory and Questions are kept as separate sections within the dedicated topic window.
+- They are not implemented as tabs.
