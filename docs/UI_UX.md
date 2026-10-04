@@ -99,3 +99,6 @@
 
 ## Topic Window Header
 - The topic window uses a sticky header showing the topic name while scrolling through theory and questions.
+
+## Topic Header Information
+- The sticky topic header displays the topic name and its current question count.
