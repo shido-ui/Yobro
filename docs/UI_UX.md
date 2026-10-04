@@ -113,3 +113,6 @@
 
 ## Topic Practice Button Reappearance
 - When scrolling back toward the top, the floating Practice button smoothly reappears.
+
+## Topic Practice Button Motion
+- Practice button reappearance uses a smooth fade/slide animation rather than an instant appearance.
