@@ -87,6 +87,14 @@ The roadmap and future plans remain controlled by the project owner.
 - Search should cover subjects, chapters, topics, questions, and extracted theory.
 
 
+## PDF Extraction vs AI Organization
+- PDF extraction itself is performed entirely on-device by the integrated MinerU-based extractor; AI is not responsible for extracting the PDF.
+- After MinerU extraction, AI helps classify and guide which chapter/topic each extracted question or study item belongs to so the app can automate organization.
+- The app remains responsible for storing, organizing, and applying the resulting classification.
+
+## Extracted Content Preservation
+- MinerU extraction should preserve relevant diagrams, tables, formulas, and their relationships to the associated question or theory where the source PDF provides those relationships.
+
 ## AI Provider / API Support
 - Users can configure and use multiple AI providers/API keys.
 - The app does not prescribe a specific AI model.
@@ -127,7 +135,7 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## PDF Processing Experience
 - After importing a PDF, the app shows a real-time processing/progress view.
-- The processing view should communicate extraction and analysis progress as it happens.
+- The processing view should communicate MinerU extraction and subsequent organization/analysis progress as it happens.
 
 
 ## Cancelled PDF Processing
