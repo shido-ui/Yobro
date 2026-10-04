@@ -8,3 +8,6 @@
 
 ## Database Layer
 - Jetpack Room is used as the SQLite database access layer.
+
+## Application Architecture
+- Yobro follows an MVVM + Repository architecture pattern.
