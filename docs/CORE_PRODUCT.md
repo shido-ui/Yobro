@@ -132,3 +132,9 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Cancelled PDF Processing
 - If the user cancels PDF processing, the partially extracted results are discarded and deleted.
+
+
+## Original PDF Retention and Extraction Quality
+- The original imported PDF is deleted after successful extraction and verification.
+- Prioritize the highest practical extraction accuracy for all questions and associated content, including equations, diagrams, and tables.
+- Verify extraction before deleting the source PDF; flag uncertain or potentially missing content rather than assuming perfect extraction.
