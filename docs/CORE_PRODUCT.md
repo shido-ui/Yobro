@@ -138,3 +138,8 @@ The roadmap and future plans remain controlled by the project owner.
 - The original imported PDF is deleted after successful extraction and verification.
 - Prioritize the highest practical extraction accuracy for all questions and associated content, including equations, diagrams, and tables.
 - Verify extraction before deleting the source PDF; flag uncertain or potentially missing content rather than assuming perfect extraction.
+
+
+## Extraction Verification
+- Yobro should automatically verify extracted content for completeness and potential extraction errors.
+- The user should also have an opportunity to review the extracted content before the original PDF is permanently deleted.
