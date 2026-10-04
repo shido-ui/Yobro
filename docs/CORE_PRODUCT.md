@@ -209,3 +209,8 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Subject Deletion Cascade
 - After confirmation, deleting a subject permanently deletes everything contained within it, including its chapters, topics, questions, and theory.
+
+
+## Chapter & Topic Deletion
+- Deleting a chapter or topic requires explicit user confirmation.
+- After confirmation, deletion permanently removes everything contained within the deleted chapter or topic.
