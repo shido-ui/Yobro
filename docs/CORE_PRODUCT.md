@@ -188,3 +188,8 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Question Deletion Confirmation
 - Deleting an extracted question requires user confirmation before permanent deletion.
+
+
+## Permanent Question Deletion
+- After confirmation, a deleted question is permanently deleted.
+- No recycle bin or recovery period is required.
