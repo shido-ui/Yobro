@@ -47,3 +47,7 @@
 
 ## Classification Context
 - AI classification receives the full relevant extracted context around each question, including nearby theory, section headings, and page context where available, to improve classification accuracy.
+
+## AI Classification Confidence
+- AI classification results include a confidence score.
+- Low-confidence classifications can be flagged for user review and correction.
