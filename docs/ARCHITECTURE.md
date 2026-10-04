@@ -51,3 +51,6 @@
 ## AI Classification Confidence
 - AI classification results include a confidence score.
 - Low-confidence classifications can be flagged for user review and correction.
+
+## Low-Confidence Reclassification
+- Questions with low AI classification confidence are automatically sent for a second AI classification attempt.
