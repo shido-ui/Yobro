@@ -28,3 +28,12 @@
 - Topics use the same interactive card-based visual language as chapters.
 - Opening a topic reveals its questions through smooth transitions.
 - Question content should appear through fluid, responsive interactions rather than static screen changes.
+
+## Theory Reading
+- Theory is presented in a clean interactive reading canvas.
+- Sections, formulas, diagrams, and tables can appear through smooth scroll-driven transitions.
+
+## Question Counts
+- Chapter cards display the total number of questions the user has in that chapter.
+- Topic cards display the total number of questions the user has in that topic.
+- Counts reflect the user's current local question library.
