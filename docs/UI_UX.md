@@ -66,3 +66,7 @@
 ## Creation and Editing Controls
 - Creating and editing subjects, chapters, and topics uses animated bottom sheets rather than separate screens.
 - Bottom sheets should provide responsive motion and keep the primary navigation uncluttered.
+
+## Question Editing
+- Editing a question uses an animated bottom sheet.
+- All question-editing fields are accessible without leaving the current topic.
