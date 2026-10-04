@@ -201,3 +201,7 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Subject Management
 - Users can manually create, rename, move, merge, and delete subjects.
+
+
+## Subject Deletion
+- Deleting a subject requires explicit user confirmation.
