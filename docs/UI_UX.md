@@ -18,3 +18,8 @@
   - Search — comprehensive search across the study library.
   - Settings — app, AI provider/API configuration, and relevant local controls.
 - Navigation transitions should use fluid animations and responsive visual feedback rather than static screen changes.
+
+## Subject & Chapter Browsing
+- Subjects open into interactive chapter cards.
+- Chapter cards use smooth entrance, tap, and scrolling animations.
+- Content should transition fluidly as the user browses rather than appearing as static lists.
