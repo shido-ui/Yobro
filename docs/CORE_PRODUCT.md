@@ -180,3 +180,7 @@ The roadmap and future plans remain controlled by the project owner.
 ## Duplicated Question Placement
 - A duplicated question remains in the same chapter/topic placement as its original question.
 - Duplicating a question does not automatically create or change its organization.
+
+
+## Question Deletion
+- Users can permanently delete extracted questions from their library.
