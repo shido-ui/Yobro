@@ -151,3 +151,7 @@
 ## Search Controls
 - Search uses a single global search bar at the top.
 - Filters/chips below the search bar allow filtering by result type: Subjects, Chapters, Topics, Questions, and Theory.
+
+## Live Search
+- Search results update and filter instantly as the user types.
+- No separate Search button is required to apply the query.
