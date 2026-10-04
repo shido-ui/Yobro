@@ -92,3 +92,10 @@ The roadmap and future plans remain controlled by the project owner.
 - The app does not prescribe a specific AI model.
 - The user may use whatever model(s) their configured API provider/key supports.
 - AI provider choice should remain flexible for classification and analysis.
+
+
+## Local-First Data & Responsibility
+- Student data is stored locally on the user's device.
+- The phone's local storage is used for the application's database/data layer.
+- No account/login or cloud database is required for the core product.
+- When material such as PDFs is sent to an external AI API, the user is responsible for that data transfer and the provider/API they choose.
