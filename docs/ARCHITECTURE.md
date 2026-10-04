@@ -44,3 +44,6 @@
 ## AI Classification Granularity
 - AI classification processes extracted questions individually to maximize classification accuracy.
 - Each question is classified for its appropriate subject/chapter/topic placement independently.
+
+## Classification Context
+- AI classification receives the full relevant extracted context around each question, including nearby theory, section headings, and page context where available, to improve classification accuracy.
