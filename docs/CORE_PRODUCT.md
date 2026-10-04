@@ -160,3 +160,8 @@ The roadmap and future plans remain controlled by the project owner.
 ## Editable Study Content
 - Extracted theory is editable by the user.
 - Users can correct or modify extracted theory after extraction.
+
+
+## Editable Questions
+- Users can edit extracted questions after extraction.
+- Editing may include the question text, options, answer, question type, and other relevant question fields.
