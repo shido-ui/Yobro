@@ -46,3 +46,7 @@
 - Outside test/exam mode, expanding a question reveals its options and saved answer directly within the card.
 - The saved answer is visually separated from the question/options.
 - Test/exam mode does not reveal the saved answer during the test.
+
+## Test/Exam Environment
+- Tests/exams use a separate dedicated test environment rather than the normal question-card browsing interface.
+- The normal question-card expanded view is not used as the test-taking environment.
