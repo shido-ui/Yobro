@@ -178,3 +178,6 @@
 ## Master Search Matching
 - Master Search supports keywords and synonyms rather than requiring exact interface names.
 - Related interface actions should be discoverable from common terms; for example, searching “PDF” can surface Import PDF, Extraction, Processing, and Verification.
+
+## Master Search Recent History
+- Master Search does not show recent searches or recent actions when opened.
