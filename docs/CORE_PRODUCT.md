@@ -99,3 +99,11 @@ The roadmap and future plans remain controlled by the project owner.
 - The phone's local storage is used for the application's database/data layer.
 - No account/login or cloud database is required for the core product.
 - When material such as PDFs is sent to an external AI API, the user is responsible for that data transfer and the provider/API they choose.
+
+
+## Platform & Hardware Target
+- Android only for the initial product.
+- The app should be highly optimized for Android mid-range devices.
+- Low-end phones are not a target.
+- Minimum recommended hardware target: 3 GB RAM and a MediaTek Dimensity 6300-class processor.
+- The UI is intended to be visually rich/eye-catching, so the target device should be capable of handling the interface smoothly.
