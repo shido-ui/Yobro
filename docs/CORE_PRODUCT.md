@@ -197,3 +197,7 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Chapter & Topic Management
 - Users can manually create, rename, move, merge, and delete chapters and topics.
+
+
+## Subject Management
+- Users can manually create, rename, move, merge, and delete subjects.
