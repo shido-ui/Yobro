@@ -136,3 +136,7 @@
 ## Practice Session Summary
 - After a Practice session, the app shows a session summary.
 - The summary includes accuracy, attempted questions, and mistakes.
+
+## Test Results
+- Test results use a more detailed results screen than Practice results.
+- The results include score, accuracy, mistakes, and topic-wise performance.
