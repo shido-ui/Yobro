@@ -50,3 +50,7 @@
 ## Test/Exam Environment
 - Tests/exams use a separate dedicated test environment rather than the normal question-card browsing interface.
 - The normal question-card expanded view is not used as the test-taking environment.
+
+## Test Question Navigation
+- The dedicated test environment presents one question at a time.
+- Users navigate between questions with Next and Previous controls.
