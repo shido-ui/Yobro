@@ -114,3 +114,7 @@ The roadmap and future plans remain controlled by the project owner.
 - Motion should respond smoothly to scrolling and user interaction, with content transitioning/moving into view rather than behaving like a static collection of screens.
 - The supplied ORBIS webpage is a reference for the desired interaction philosophy: scroll-driven transitions, animated content entrances, responsive movement, interactive controls, and fluid panels. Its implementation is web-specific and is not itself the Android implementation.
 - The Android version should translate the same interaction quality into appropriately optimized native/mobile UI.
+
+
+## Theme
+- Dark mode only.
