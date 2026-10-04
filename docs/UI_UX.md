@@ -96,3 +96,6 @@
 
 ## Topic Window Order
 - Theory appears above Questions by default in the dedicated topic window.
+
+## Topic Window Header
+- The topic window uses a sticky header showing the topic name while scrolling through theory and questions.
