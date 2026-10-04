@@ -155,3 +155,12 @@
 ## Live Search
 - Search results update and filter instantly as the user types.
 - No separate Search button is required to apply the query.
+
+## Settings Layout
+- Settings uses a grouped layout with sections for AI Providers, Storage, Processing, and App Preferences.
+
+## Master Search
+- The app includes a Master Search separate from study-content search.
+- Master Search searches the app's own destinations, settings, processing tools, and other navigable interface actions.
+- Master Search is designed for quick navigation and ease of use.
+- Selecting a Master Search result directly navigates to the relevant interface or control.
