@@ -205,3 +205,7 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Subject Deletion
 - Deleting a subject requires explicit user confirmation.
+
+
+## Subject Deletion Cascade
+- After confirmation, deleting a subject permanently deletes everything contained within it, including its chapters, topics, questions, and theory.
