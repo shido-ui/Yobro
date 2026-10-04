@@ -128,3 +128,7 @@ The roadmap and future plans remain controlled by the project owner.
 ## PDF Processing Experience
 - After importing a PDF, the app shows a real-time processing/progress view.
 - The processing view should communicate extraction and analysis progress as it happens.
+
+
+## Cancelled PDF Processing
+- If the user cancels PDF processing, the partially extracted results are discarded and deleted.
