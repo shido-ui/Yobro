@@ -171,3 +171,6 @@
 
 ## Master Search Presentation
 - From the main screen, Master Search opens as a full-screen search overlay rather than navigating to another screen.
+
+## Master Search Results
+- Master Search results are categorized by interface area, such as Settings, Library, Processing, Practice, and Tests.
