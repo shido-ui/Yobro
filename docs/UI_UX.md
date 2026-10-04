@@ -144,3 +144,6 @@
 ## Test Mistake Review
 - Each mistake in Test Results is tap-to-expand.
 - Expanded mistakes show the question, the user's answer, and the correct answer.
+
+## Search Results
+- Search results are grouped by type: Subjects, Chapters, Topics, Questions, and Theory.
