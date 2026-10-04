@@ -193,3 +193,7 @@ The roadmap and future plans remain controlled by the project owner.
 ## Permanent Question Deletion
 - After confirmation, a deleted question is permanently deleted.
 - No recycle bin or recovery period is required.
+
+
+## Chapter & Topic Management
+- Users can manually create, rename, move, merge, and delete chapters and topics.
