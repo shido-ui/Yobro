@@ -85,3 +85,10 @@ The roadmap and future plans remain controlled by the project owner.
 ## Search
 - The app should provide a comprehensive search system across the user's organized study material.
 - Search should cover subjects, chapters, topics, questions, and extracted theory.
+
+
+## AI Provider / API Support
+- Users can configure and use multiple AI providers/API keys.
+- The app does not prescribe a specific AI model.
+- The user may use whatever model(s) their configured API provider/key supports.
+- AI provider choice should remain flexible for classification and analysis.
