@@ -40,3 +40,7 @@
 ## Automatic AI Organization
 - After MinerU extraction completes, AI classification starts automatically without requiring a separate manual start action.
 - If AI classification fails, Yobro provides a manual organization tool so the user can categorize the extracted content themselves.
+
+## AI Classification Granularity
+- AI classification processes extracted questions individually to maximize classification accuracy.
+- Each question is classified for its appropriate subject/chapter/topic placement independently.
