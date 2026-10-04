@@ -123,3 +123,8 @@ The roadmap and future plans remain controlled by the project owner.
 ## PDF Import
 - Users import one PDF at a time.
 - PDF extraction is performed on-device using the integrated MinerU-based extractor.
+
+
+## PDF Processing Experience
+- After importing a PDF, the app shows a real-time processing/progress view.
+- The processing view should communicate extraction and analysis progress as it happens.
