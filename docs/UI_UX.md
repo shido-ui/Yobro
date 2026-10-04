@@ -174,3 +174,7 @@
 
 ## Master Search Results
 - Master Search results are categorized by interface area, such as Settings, Library, Processing, Practice, and Tests.
+
+## Master Search Matching
+- Master Search supports keywords and synonyms rather than requiring exact interface names.
+- Related interface actions should be discoverable from common terms; for example, searching “PDF” can surface Import PDF, Extraction, Processing, and Verification.
