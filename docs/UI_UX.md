@@ -70,3 +70,6 @@
 ## Question Editing
 - Editing a question uses an animated bottom sheet.
 - All question-editing fields are accessible without leaving the current topic.
+
+## Destructive Action Confirmation
+- Deleting questions, topics, chapters, or subjects uses a confirmation dialog with a clear warning.
