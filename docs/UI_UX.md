@@ -73,3 +73,6 @@
 
 ## Destructive Action Confirmation
 - Deleting questions, topics, chapters, or subjects uses a confirmation dialog with a clear warning.
+
+## Deletion Detail
+- Deletion confirmation dialogs show the exact content counts that will be permanently deleted, such as the number of questions and topics.
