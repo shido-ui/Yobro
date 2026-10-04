@@ -11,3 +11,6 @@
 
 ## Application Architecture
 - Yobro follows an MVVM + Repository architecture pattern.
+
+## Application Architecture
+- The Android application follows MVVM with a Repository pattern.
