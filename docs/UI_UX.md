@@ -76,3 +76,7 @@
 
 ## Deletion Detail
 - Deletion confirmation dialogs show the exact content counts that will be permanently deleted, such as the number of questions and topics.
+
+## Library Subject Navigation
+- Subject cards are large interactive cards with question counts and subtle animated effects.
+- Opening a subject uses an animated transition from the subject card into its chapter view rather than a static page change.
