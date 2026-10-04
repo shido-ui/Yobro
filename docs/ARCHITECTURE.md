@@ -26,3 +26,7 @@
 ## Local Storage
 - Yobro stores its database, extracted study data, and application-generated files in Android's internal app storage.
 - Core data does not require external/shared storage or a cloud database.
+
+## AI Processing Boundary
+- AI API calls begin only after MinerU has completed on-device PDF extraction.
+- AI receives extracted content for organization/classification and analysis rather than performing the initial PDF extraction.
