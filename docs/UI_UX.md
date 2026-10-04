@@ -41,3 +41,8 @@
 ## Question Interaction
 - Tapping a question card expands the question in place with a smooth animation.
 - The primary question-reading interaction should avoid unnecessary full-screen navigation.
+
+## Question Card Answer Display
+- Outside test/exam mode, expanding a question reveals its options and saved answer directly within the card.
+- The saved answer is visually separated from the question/options.
+- Test/exam mode does not reveal the saved answer during the test.
