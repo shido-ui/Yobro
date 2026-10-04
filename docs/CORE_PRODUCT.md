@@ -118,3 +118,8 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Theme
 - Dark mode only.
+
+
+## PDF Import
+- Users import one PDF at a time.
+- PDF extraction is performed on-device using the integrated MinerU-based extractor.
