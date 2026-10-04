@@ -124,3 +124,7 @@
 ## Practice Question Navigator
 - Practice includes a question-number navigator.
 - The navigator shows which questions have been attempted.
+
+## Answer Feedback
+- Practice shows instant correctness feedback immediately after an answer is submitted.
+- Tests do not reveal correctness during the test; correctness/results are shown only after the full test is completed.
