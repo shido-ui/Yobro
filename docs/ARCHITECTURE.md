@@ -18,3 +18,7 @@
 ## PDF Extraction Runtime
 - MinerU runs locally on the Android phone as part of Yobro's on-device PDF processing architecture.
 - PDF extraction does not depend on a remote extraction service.
+
+## Background PDF Processing
+- Long-running PDF extraction should use Android WorkManager if it can be integrated without materially increasing implementation complexity.
+- If WorkManager would substantially complicate the build, Yobro should prefer a simpler reliable on-device processing approach.
