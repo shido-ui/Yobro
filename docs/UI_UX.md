@@ -23,3 +23,8 @@
 - Subjects open into interactive chapter cards.
 - Chapter cards use smooth entrance, tap, and scrolling animations.
 - Content should transition fluidly as the user browses rather than appearing as static lists.
+
+## Topic Browsing
+- Topics use the same interactive card-based visual language as chapters.
+- Opening a topic reveals its questions through smooth transitions.
+- Question content should appear through fluid, responsive interactions rather than static screen changes.
