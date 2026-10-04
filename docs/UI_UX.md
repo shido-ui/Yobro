@@ -147,3 +147,7 @@
 
 ## Search Results
 - Search results are grouped by type: Subjects, Chapters, Topics, Questions, and Theory.
+
+## Search Controls
+- Search uses a single global search bar at the top.
+- Filters/chips below the search bar allow filtering by result type: Subjects, Chapters, Topics, Questions, and Theory.
