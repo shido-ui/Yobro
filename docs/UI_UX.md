@@ -116,3 +116,7 @@
 
 ## Topic Practice Button Motion
 - Practice button reappearance uses a smooth fade/slide animation rather than an instant appearance.
+
+## Practice Question Navigation
+- Practice uses a focused one-question-at-a-time interaction similar to the test environment.
+- Users can scroll through upcoming questions before solving or attempting them.
