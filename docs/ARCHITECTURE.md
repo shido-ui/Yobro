@@ -36,3 +36,7 @@
 - If an AI API call fails, extracted content remains stored locally.
 - Users can manually categorize extracted questions and study content.
 - Full editing capabilities remain available regardless of AI availability.
+
+## Automatic AI Organization
+- After MinerU extraction completes, AI classification starts automatically without requiring a separate manual start action.
+- If AI classification fails, Yobro provides a manual organization tool so the user can categorize the extracted content themselves.
