@@ -107,3 +107,10 @@ The roadmap and future plans remain controlled by the project owner.
 - Low-end phones are not a target.
 - Minimum recommended hardware target: 3 GB RAM and a MediaTek Dimensity 6300-class processor.
 - The UI is intended to be visually rich/eye-catching, so the target device should be capable of handling the interface smoothly.
+
+
+## UI / Interaction Direction
+- The Android UI should be highly interactive, fluid, and visually engaging.
+- Motion should respond smoothly to scrolling and user interaction, with content transitioning/moving into view rather than behaving like a static collection of screens.
+- The supplied ORBIS webpage is a reference for the desired interaction philosophy: scroll-driven transitions, animated content entrances, responsive movement, interactive controls, and fluid panels. Its implementation is web-specific and is not itself the Android implementation.
+- The Android version should translate the same interaction quality into appropriately optimized native/mobile UI.
