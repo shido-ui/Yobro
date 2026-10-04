@@ -50,3 +50,9 @@ Keep the application logic and organization local. AI primarily provides classif
 This document records established product decisions only. It must not be used to invent future requirements or roadmap items.
 
 The roadmap and future plans remain controlled by the project owner.
+
+
+## Organization
+- Multiple PDFs can contribute questions to the same topic.
+- Questions from different PDFs may be combined into one shared topic library.
+- The organization includes subject sections above chapters/topics.
