@@ -143,3 +143,7 @@ The roadmap and future plans remain controlled by the project owner.
 ## Extraction Verification
 - Yobro should automatically verify extracted content for completeness and potential extraction errors.
 - The user should also have an opportunity to review the extracted content before the original PDF is permanently deleted.
+
+
+## Extraction Verification Gate
+- If automatic verification identifies a potentially missing or incorrect question, the original PDF must not be deleted until the issue is resolved.
