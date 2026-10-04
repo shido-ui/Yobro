@@ -184,3 +184,10 @@
 
 ## Master Search Navigation
 - Tapping a Master Search result closes the search overlay and directly opens the selected destination or interface.
+
+## Global Motion System
+- Yobro uses a consistent motion system across cards, bottom sheets, navigation, search, and transitions.
+- Motion should be very fluid and highly interactive.
+- Scroll position should continuously influence visual movement and transitions where appropriate.
+- Animations should respond dynamically to scrolling and user interaction rather than relying only on static entrance effects.
+- Motion must remain smooth and performant on the target Android mid-range hardware.
