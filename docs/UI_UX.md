@@ -80,3 +80,7 @@
 ## Library Subject Navigation
 - Subject cards are large interactive cards with question counts and subtle animated effects.
 - Opening a subject uses an animated transition from the subject card into its chapter view rather than a static page change.
+
+## Library Chapter Navigation
+- Chapter cards use the same animated transition pattern as subject cards.
+- Opening a chapter transitions smoothly into its topic view rather than using a static page change.
