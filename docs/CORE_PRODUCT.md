@@ -184,3 +184,7 @@ The roadmap and future plans remain controlled by the project owner.
 
 ## Question Deletion
 - Users can permanently delete extracted questions from their library.
+
+
+## Question Deletion Confirmation
+- Deleting an extracted question requires user confirmation before permanent deletion.
