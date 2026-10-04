@@ -37,3 +37,7 @@
 - Chapter cards display the total number of questions the user has in that chapter.
 - Topic cards display the total number of questions the user has in that topic.
 - Counts reflect the user's current local question library.
+
+## Question Interaction
+- Tapping a question card expands the question in place with a smooth animation.
+- The primary question-reading interaction should avoid unnecessary full-screen navigation.
