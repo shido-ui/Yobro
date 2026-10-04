@@ -93,3 +93,6 @@
 ## Topic Window Sections
 - Theory and Questions are kept as separate sections within the dedicated topic window.
 - They are not implemented as tabs.
+
+## Topic Window Order
+- Theory appears above Questions by default in the dedicated topic window.
