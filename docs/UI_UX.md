@@ -168,3 +168,6 @@
 ## Master Search Access
 - Master Search is accessible from the main screen only.
 - It is not persistently exposed on every secondary screen.
+
+## Master Search Presentation
+- From the main screen, Master Search opens as a full-screen search overlay rather than navigating to another screen.
