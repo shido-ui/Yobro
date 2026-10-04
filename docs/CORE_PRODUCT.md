@@ -76,3 +76,7 @@ The roadmap and future plans remain controlled by the project owner.
 - Test generation is highly customizable.
 - Users can control test composition down to fine-grained details, including subject/topic, question count, difficulty, and question type.
 - Customization applies while remaining restricted to the user's extracted BYOM question library.
+
+
+## Dashboard
+- No dedicated overall study-status/weak-area dashboard is required.
